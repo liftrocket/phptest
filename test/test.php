@@ -1,1 +1,1 @@
-<?php echo __DIR__;
+<?php echo ../__DIR__;
