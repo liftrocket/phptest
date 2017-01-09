@@ -1,6 +1,6 @@
 <?php
 namespace test;
- require_once __DIR__ .'\..\vendor\autoload.php';
+ require_once'../vendor/autoload.php';
 //require'C:\xampp\htdocs\TestOnly\source\ValidatePassword.php';
 class ValidatePasswordTest extends \PHPUnit_Framework_TestCase{
 
